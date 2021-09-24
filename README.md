@@ -1,8 +1,7 @@
-# Hello There
+# ARTICLES
 
-> A basic "Hello There" page that illustrate the use of tools and best practices for future projects.
-
-Additional description about the project and its features.
+> This project is based on my knowledge on fundamental of javascript . This project is to share what i have learnt so far 
+so it can be of help to others.
 
 ## Built With
 
